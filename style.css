@@ -5,7 +5,7 @@
 html,body {
     font-family: 'Ubuntu Mono', monospace;
     font-size: 16px;
-    background: #1a1b26;
+    background: #222F3F;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -27,7 +27,7 @@ img {
 
 nav {
     color: #a9b1d6;
-    background-color: #24283b;
+    background-color: #30455f;
     display: grid;
     grid-template-columns: auto auto auto auto;
     margin-top: 0px;
@@ -70,7 +70,7 @@ div.taskbar {
 .clock-box {
     position: relative;
     color: #a9b1d6;
-    background-color: #1a1b26;
+    background-color: #222F3F;
     flex-direction: row;
     display: flex;
     justify-content: space-between;
@@ -83,7 +83,7 @@ a {
 }
 
 input {
-    background-color: #24283b;
+    background-color: #30455f;
     font: 16px 'Ubuntu Mono', monospace;
     color: #a9b1d6;
     height: 100%;
